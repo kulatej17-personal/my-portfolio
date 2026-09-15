@@ -1,4 +1,4 @@
-# Kulatej Advanced Recruiter Portfolio
+# Kulatej Portfolio
 
 Personalised with the supplied LinkedIn, GitHub and CV.
 
